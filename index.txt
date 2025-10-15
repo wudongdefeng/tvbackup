@@ -1,0 +1,57 @@
+{ "urls": [
+
+{ "url": "clan://localhost/？？？/D佬/api.json", "name": "D佬" },
+
+{ "url": "clan://localhost/？？？/iptv365/api.json", "name": "iptv365直播" },
+
+{ "url": "clan://localhost/？？？/OK/api.json", "name": "OK" },
+
+{ "url": "clan://localhost/？？？/PG/api.json", "name": "PG" },
+
+{ "url": "clan://localhost/？？？/白嫖/api.json", "name": "白嫖" },
+
+{ "url": "clan://localhost/？？？/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "clan://localhost/？？？/动漫频道/api.json", "name": "动漫频道" },
+
+{ "url": "clan://localhost/？？？/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "clan://localhost/？？？/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "clan://localhost/？？？/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "clan://localhost/？？？/宫殿/api.json", "name": "宫殿" },
+
+{ "url": "clan://localhost/？？？/喵影视线/api.json", "name": "喵影视线" },
+
+{ "url": "clan://localhost/？？？/摸鱼儿/api.json", "name": "摸鱼儿" },
+
+{ "url": "clan://localhost/？？？/南风/api.json", "name": "南风" },
+
+{ "url": "clan://localhost/？？？/欧歌/api.json", "name": "欧歌" },
+
+{ "url": "clan://localhost/？？？/巧技/api.json", "name": "巧技" },
+
+{ "url": "clan://localhost/？？？/骚零/api.json", "name": "骚零" },
+
+{ "url": "clan://localhost/？？？/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "clan://localhost/？？？/天天开心/api.json", "name": "天天开心" },
+
+{  "url": "clan://localhost/？？？/天微/api.json", "name": "天微" },
+
+{  "url": "clan://localhost/？？？/天微VIP/api.json", "name": "天微VIP" },
+
+{ "url": "clan://localhost/？？？/王二小/api.json", "name": "王二小" },
+
+{ "url": "clan://localhost/？？？/戏曲音乐/api.json", "name": "戏曲音乐" },
+
+{ "url": "clan://localhost/？？？/香雅情/api.json", "name": "香雅情" },
+
+{ "url": "clan://localhost/？？？/潇洒/api.json", "name": "潇洒" },
+
+{ "url": "clan://localhost/？？？/小虎斑/api.json", "name": "小虎斑" },
+
+{ "url": "clan://localhost/？？？/小米/api.json", "name": "小米" }
+
+]}
