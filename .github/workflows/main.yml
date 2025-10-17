@@ -2,7 +2,7 @@ name: sync_to_gitcode
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   push-to-mirror:
