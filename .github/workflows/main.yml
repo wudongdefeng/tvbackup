@@ -1,8 +1,7 @@
 name: sync_to_gitcode
 
 on:
-  push:
-    branches: [main]
+  workflow_dispatch:
 
 jobs:
   push-to-mirror:
